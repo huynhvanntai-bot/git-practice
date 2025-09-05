@@ -1,0 +1,29 @@
+*   [33mf0ac913[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Merge branch 'feature-branch'
+[31m|[m[32m\[m  
+[31m|[m * [33md42ef05[m[33m ([m[1;31morigin/feature-branch[m[33m, [m[1;32mfeature-branch[m[33m)[m Add version 1.0
+[31m|[m * [33m7ee8779[m[33m ([m[1;33mtag: [m[1;33mv2.0[m[33m, [m[1;32mpractice-branch[m[33m, [m[1;32mbranch-from-v2[m[33m)[m Update version 2.0
+[31m|[m * [33m3b73e14[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m)[m Add version 1.0
+* [32m|[m [33m54d07ad[m Add main.md
+[32m|[m [32m|[m * [33m0ace999[m[33m ([m[1;32mrestore-line3[m[33m)[m Add line 4
+[32m|[m [32m|[m * [33m590951d[m Add line 4
+[32m|[m [32m|[m * [33mb32b7bf[m Revert "Add line 3"
+[32m|[m [32m|[m[32m/[m  
+[32m|[m * [33m2982961[m Add line 3
+[32m|[m * [33m278723b[m Add line 2
+[32m|[m * [33mc7e6386[m Add line 1
+[32m|[m * [33m7b59e19[m Restore readme changes
+[32m|[m * [33m6953f65[m Add note.md
+[32m|[m * [33m7b89a42[m[33m ([m[1;31morigin/practice-branch[m[33m)[m Remove exercise1
+[32m|[m * [33m7942d9b[m Rename practice1 to exercise1
+[32m|[m * [33mbdf5ade[m Add practice1
+[32m|[m[32m/[m  
+* [33maf834b9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/feature-update-A[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update README and info by A
+* [33m9b295c5[m Add info.txt with basic info
+[33m|[m * [33m0328976[m[33m ([m[1;31morigin/feature-update-B[m[33m)[m add featureB.txt
+[33m|[m * [33ma37b8fb[m[33m ([m[1;31morigin/update-name[m[33m, [m[1;31morigin/conflict-demo[m[33m)[m update huynhtai
+[33m|[m[33m/[m  
+*   [33mf2dbc38[m Merge branch 'add-info'
+[35m|[m[36m\[m  
+[35m|[m * [33m25fa68d[m Add personal info
+[35m|[m[35m/[m  
+* [33m9bbbc8a[m first commit
